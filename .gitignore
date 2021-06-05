@@ -1,0 +1,9 @@
+.env
+
+*.ini
+
+# Temporary holding back tif/pdf files because they will cause github to error
+*.tif
+*.pdf
+
+james/
